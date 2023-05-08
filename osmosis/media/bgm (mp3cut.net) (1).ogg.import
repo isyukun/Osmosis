@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cqchqnjwm2tjn"
+path="res://.godot/imported/bgm (mp3cut.net) (1).ogg-f59ee463ad115f21184dd3ef868ee778.oggvorbisstr"
+
+[deps]
+
+source_file="res://media/bgm (mp3cut.net) (1).ogg"
+dest_files=["res://.godot/imported/bgm (mp3cut.net) (1).ogg-f59ee463ad115f21184dd3ef868ee778.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

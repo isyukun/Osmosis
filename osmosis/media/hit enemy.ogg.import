@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://yiwv3bif0nyf"
+path="res://.godot/imported/hit enemy.ogg-94f266895f001764f03efa759dfe1bdc.oggvorbisstr"
+
+[deps]
+
+source_file="res://media/hit enemy.ogg"
+dest_files=["res://.godot/imported/hit enemy.ogg-94f266895f001764f03efa759dfe1bdc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

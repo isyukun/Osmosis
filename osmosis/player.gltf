@@ -1,0 +1,1 @@
+{"asset":{"generator":"Godot Engine v4.0.2.stable.official@7a0977ce2c558fe6219f0a14f8bd4d05aea8f019","version":"2.0"},"nodes":[{"children":[1,2],"extensions":{},"name":"Player"},{"extensions":{},"name":"AnimatedSprite"},{"extensions":{},"name":"AreaCollision"}],"scene":0,"scenes":[{"nodes":[0]}]}

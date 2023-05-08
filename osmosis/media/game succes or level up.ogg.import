@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ck63ni54dmt06"
+path="res://.godot/imported/game succes or level up.ogg-cfba7f61f79d2cb9b4d9ae31432a331a.oggvorbisstr"
+
+[deps]
+
+source_file="res://media/game succes or level up.ogg"
+dest_files=["res://.godot/imported/game succes or level up.ogg-cfba7f61f79d2cb9b4d9ae31432a331a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
